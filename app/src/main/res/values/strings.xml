@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service">Вартість сервісу:</string>
+    <string name="tip_amount">Кількість чайових: %s</string>
+    <string name="how_do_you_like">Як ви оцінюєте обслуговування?</string>
+</resources>
