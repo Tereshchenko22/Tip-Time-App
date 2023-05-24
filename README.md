@@ -1,5 +1,7 @@
 Tip Time App
+
 Description
+
 The Tip Time App is a versatile and user-friendly calculator application designed for Android devices. It provides a convenient and intuitive way to perform basic and advanced mathematical calculations on the go. Whether you need to make simple calculations or solve complex equations, the Hand Calculator has got you covered.
 
 Features
